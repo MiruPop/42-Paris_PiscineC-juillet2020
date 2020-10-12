@@ -1,0 +1,5 @@
+Credentials cache: API:617567B4-496C-4071-BEF4-5A62C35337C2
+        Principal: apopescu@42.FR
+
+  Issued                Expires               Principal
+Jul  6 11:09:44 2020  Jul 13 11:09:38 2020  krbtgt/42.FR@42.FR
